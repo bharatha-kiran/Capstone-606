@@ -1,4 +1,4 @@
-# Capstone-606
+# Bone Cancer detection using Image segmentation
 Capstone Project on Bone cancer detection using Image Segmentation
 Group:
 
