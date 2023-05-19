@@ -81,7 +81,3 @@ https://github.com/bnsreenu/python_for_microscopists/blob/master/208-simple_mult
 
 Insight-face-erase
 https://github.com/admshumar/insight-face-erase
-
-
-
-![image](https://github.com/bharatha-kiran/Capstone-606/assets/76111572/f430b3fe-b65d-4304-b449-e781b336e70e)
