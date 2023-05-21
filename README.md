@@ -1,9 +1,10 @@
 # Bone Cancer detection using Image segmentation
 
 ### Group:
-- Madhu Kiran, Bharatha
-- Sai Ketan, Gande
+- Madhu Kiran, Bharatha 
 - Charan Reddy, Jakkireddy
+- Sai Ketan, Gande 
+
 
 ### Abstract
 Bone cancer, particularly osteosarcoma, is a serious health concern requiring early and accurate detection. Deep learning models offer promising results in medical image analysis tasks. This project compares the effectiveness of various models for bone cancer detection: SVC, CNN, MobileNetV2, and U-Net. Raw image data obtained from various medical imaging techniques is utilized. Preprocessing techniques, including resizing, normalization, and augmentation, enhance the dataset. The dataset is divided into training and testing sets for evaluation
