@@ -1,5 +1,5 @@
 # Bone Cancer detection using Image segmentation
-Capstone Project on Bone cancer detection using Image Segmentation
+
 Group:
 Madhu Kiran, Bharatha
 Sai Ketan, Gande
