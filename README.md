@@ -22,10 +22,6 @@ Image segmentation is a computer vision technique that involves dividing an imag
 - 	Class Distribution: The dataset comprises 536 (47%) non-tumor images, 263 (23%) non-viable images, and 345 (30%) viable tumor images.
 
 
-
-### CONCLUSION:
-In conclusion, CNN as expected has performed well in the binary classification. For multi-class classification the results would have been better with more data. The U-Net model has demonstrated good performance for the segmentation task based on the masks provided to it. The U-Net model's advanced architecture, incorporating the concept of skip connections and encoder-decoder structures, has allowed it to excel in tasks such as image segmentation and medical imaging. Its ability to capture fine-grained details and accurately identify boundaries and features has contributed to its good performance. 
-
 #### Dataset: https://github.com/bharatha-kiran/Capstone-606/tree/main/capstoneimages%2Cmasks/edu
 
 #### Code: https://github.com/bharatha-kiran/Capstone-606/blob/main/CAPSTONE.ipynb
